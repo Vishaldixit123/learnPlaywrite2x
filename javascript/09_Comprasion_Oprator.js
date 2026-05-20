@@ -15,8 +15,8 @@ let b = '10';
 // console.log(true == 2)
 // console.log(true == 1)
 
-// console.log("" == 0)
-// console.log(0 == "0")
+console.log("" == 0)
+console.log(0 == "0")
 console.log("" == "0")
-// console.log(null == 0)
-// console.log(null == undefined)
+console.log(null == 0)
+console.log(null == undefined)

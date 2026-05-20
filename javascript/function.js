@@ -3,3 +3,9 @@ function greet(){
 }
 
 greet()
+
+const sayHi= function(){
+    console.log('hi')
+}
+
+sayHi();
