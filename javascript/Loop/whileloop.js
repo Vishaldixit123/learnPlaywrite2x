@@ -1,6 +1,8 @@
-let attemp = 0;
+let attemp = 10;
 
-while (attemp <=3) {
+while (attemp < 3) {
     console.log('print')
     attemp++
 }
+
+
