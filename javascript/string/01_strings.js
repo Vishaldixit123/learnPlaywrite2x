@@ -9,3 +9,11 @@ console.log(String(true));
 console.log(String([1, 2]));
 
 console.log(typeof ("200"))
+
+let map = {};
+
+map['vishal'] = 1;
+
+console.log(map)
+
+console.log(map['vishal'])
