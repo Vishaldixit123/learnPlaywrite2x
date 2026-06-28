@@ -1,5 +1,5 @@
 let s1 = 'listen';
-let s2 = 'silnt';
+let s2 = 'silent';
 
 
 
