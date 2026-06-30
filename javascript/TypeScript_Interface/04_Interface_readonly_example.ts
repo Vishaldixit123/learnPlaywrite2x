@@ -12,5 +12,5 @@ const point: Point = {
 //Readonly Array
 
 interface Data {
-    readonly items: readonly number[];
+    readonly items: number[];
 }
